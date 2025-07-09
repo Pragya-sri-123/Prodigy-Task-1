@@ -23,3 +23,7 @@ pandas
 numpy
 scikit-learn
 matplotlib
+## 📊 Output Plot
+
+![Predicted vs Actual](./output.png)
+
